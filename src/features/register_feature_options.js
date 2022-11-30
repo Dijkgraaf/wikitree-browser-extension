@@ -10,6 +10,7 @@ import { registerFeature } from "../core/options/options_registry";
 import "./agc/agc_options.js";
 import "./categoryDisplay/categoryDisplay_options.js";
 import "./custom_change_summary_options/custom_change_summary_options_options";
+import "./custom_style/custom_style_options";
 import "./darkMode/darkMode_options.js";
 import "./extra_watchlist/extra_watchlist_options.js";
 import "./g2g/g2g_options.js";

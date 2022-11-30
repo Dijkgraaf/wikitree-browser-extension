@@ -13,6 +13,7 @@ import "./features/clipboard_and_notes/clipboard_and_notes";
 import "./features/collapsibleDescendantsTree/collapsibleDescendantsTree";
 import "./features/collapsible_sources/collapsible_sources";
 import "./features/custom_change_summary_options/custom_change_summary_options";
+import "./features/custom_style/custom_style";
 import "./features/darkMode/darkMode";
 import "./features/distanceAndRelationship/distanceAndRelationship";
 import "./features/draftList/draftList";
